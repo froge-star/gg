@@ -7,10 +7,10 @@ commands = '''
 '''
 soursce = '''
 `- -- -- -- -- -- -- -- --`
-**Sedthon source is working ⚡
-Dev : 𝙩𝙤𝙥𝙖𝙘
-Dev : @S_Y_V
-Source Ch : @N1111V**
+**Semo source is working ⚡
+Dev : ➯ ‌『 𝐃𝐄𝐕↝ 𝐒𝐀𝐌𝐈𝐑 』
+Dev : @DEV_SAMIR
+Source Ch : @SEMO8L**
 `-- -- -- -- -- -- -- -- --`
 '''
 trans = '''
